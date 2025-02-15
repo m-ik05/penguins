@@ -29,13 +29,18 @@ can be empty or can have an ice floe with 1, 2 or 3 fish on it.
 8. The player who collects the most fish wins.
 
 Project conditions provided by the Instructor:
+
 Interactive game
+
   The program should be ready to be compiled for an interactive mode (use preprocessor directives to
   choose the mode). In the interactive mode the program should allow to play interactive game between
   two players sitting in front of the computer. The game state does not have to be stored in the output file.
   The game state can be presented in a text mode (graphics mode is not compulsory).
+  
 Autonomous game
+
   Gameplay in autonomous mode
+  
   Game is managed by game master, i.e. operating system script provided by Instructor. Script generates
   the board (players do not create initial board), then players’ programs are run in a loop. For example,
   let program1.exe, program2.exe and program3.exe be the programs provided by students 1, 2 and
